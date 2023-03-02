@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: calculator1234
+Version: 0.2
+Summary: My description
+Home-page: http://github.com/example
+Author: Zaryanka
+Author-email: email123@mail.ru
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# РњРѕР№ РїР°РєРµС‚
+
+## РљР°Р»СЊРєСѓР»СЏС‚РѕСЂ
+
+
+#### РћРїРёСЃР°РЅРёРµ РїР°РєРµС‚Р°:
+##### РІ СЂР°Р·СЂР°Р±РѕС‚РєРµ...
+
+#### РљР°Рє РёРј РїРѕР»СЊР·РѕРІР°С‚СЊСЃСЏ
+##### plus - СЃР»РѕР¶РµРЅРёРµ
+##### minus - РІС‹С‡РёС‚Р°РЅРёРµ
+##### mult - СѓРјРЅРѕР¶РµРЅРёРµ
+##### podel - РґРµР»РµРЅРёРµ
+##### pow - РІРѕР·РІРµРґРµРЅРёРµ РІ СЃС‚РµРїРµРЅСЊ
+##### sqrt - РєРІР°РґСЂР°С‚РЅС‹Р№ РєРѕСЂРµРЅСЊ
+
