@@ -1,15 +1,15 @@
-# Мой пакет
+# My package
 
-## Калькулятор
+## Calculator
 
 
-### Описание пакета:
-#### в разработке...
+### Package Description:
+#### A simple calculator with examples of simple mathematical operations
 
-### Как им пользоваться
-#### plus - сложение
-#### minus - вычитание
-#### mult - умножение
-#### podel - деление
-#### pow - возведение в степень
-#### sqrt - квадратный корень
+### How to use it
+#### plus - addition
+#### minus - subtraction
+#### mult - multiplication
+#### podel - division
+#### pow - exponentiation
+#### sqrt - square root
